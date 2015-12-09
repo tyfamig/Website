@@ -1,0 +1,31 @@
+
+body {
+    background-color: orange;
+}
+
+h1 {
+    text-align: left;
+    color: black;
+}
+
+
+h3 {
+    text-align: left;
+    color: white;
+}
+
+h2 {
+    text-align: left-center;
+    color: black;
+}
+
+p {
+    text-align: center;
+    color: purple;
+}
+
+a {
+    text-align: center;
+    color: blue;
+}
+
